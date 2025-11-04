@@ -174,14 +174,14 @@ KRSI1,62000,1/1/1980,A,Receiving,Receiving, , , , , , ,0,N, , , , , , , , , , , 
 KRSI1,63000,1/1/1980,A,Fire Department,Fire Dept, , , , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,63000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KRSI1,64000,1/1/1980,A,Non-Employees,Non-Emp, , , , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,64000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KRSI1,ALL_DEPTS,1/1/1980,A,Brazilian Operations,Bra Oper, , , , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,ALL_DEPTS, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-KYSI1,10000,1/1/1990,A,Human Resources - Mexico,Rec Hum, ,KYSI1,KYGRO, ,GY0002, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY100, , , ,Velázquez Hernández,Eduardo, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+KYSI1,10000,1/1/1990,A,Human Resources - Mexico,Rec Hum, ,KYSI1,KYGRO, ,GY0002, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY100, , , ,VelÃ¡zquez HernÃ¡ndez,Eduardo, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,22000,1/1/1990,A,Sales and Services,Sales Svcs, ,KYSI1,KYDF, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY300, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,43000,1/1/1990,A,Research and Development,R & D, ,KYSI1,KYHGO, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY200, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,ALL_DEPTS,1/1/1990,A,CC Department Tree,Dept Tree, ,KYSI1,KYDF, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,GY_DEPTO1,1/1/2001,A,Depto 1 Empresas NIeto,Depto 1 Em,KYF,GYNIE, , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,Y,Y,Y,GY_DEPTO1, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,GY_DEPTO2,1/1/2001,A,Depto 2 Empresas Nieto,Depto 2 Em,KYF,GYNIE, , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,Y,Y,Y,GY_DEPTO2, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,GY_DEPTOS,1/1/2001,A,Deptos Empresas Nieto,Deptos Emp,KYF,KYSI1,KYDF, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,Y,Y,Y,GY_DEPTOS, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-KYSI1,KY000,1/1/1990,A,Dirección General,Direc Gral,KYF,KYSI1,KYDF, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+KYSI1,KY000,1/1/1990,A,DirecciÃ³n General,Direc Gral,KYF,KYSI1,KYDF, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI1,KY100,1/1/1990,A,Recursos Humanos,Rec Hum, ,KYSI1,KYGRO, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY100, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI2,10000,1/1/1990,A,Human Resources - Mexico,Servicios, ,KYSI2,KYCDJUAREZ, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY100, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 KYSI2,22000,1/1/1990,A,Sales and Services,Sales Svcs, ,KYSI2,KYSON, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KY300, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
@@ -194,8 +194,8 @@ K1USA,K1GDPE,1/1/2004,A,GP US Dept E,GPUS DPTE, , , , , , ,0,N, , , , , , , , , 
 KMMYS,KM001,1/1/1980,A,Human Resources,HR, ,KMMYS, , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,KM001, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,21602,1/1/2001,A,Sales and Services,Sal/Serv,GD2,DEU01,KD912, ,KD0002, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,21602, , , ,Amme,Isabella Maria, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,21602,1/1/2004,A,Sales and Services,Sal/Serv,GD2,DEU01,KD912, ,KD0002, ,0,N, , , ,VW,87543857345,050, , , , , , , , , , , , ,N,N,N,N,N,N,21602, , , ,Amme,Isabella Maria, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,21603,1/1/2001,A,Sales and Services,Sal/Serv,GD3,DEU01,KD915, ,KD0003, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,21603, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,21603,1/1/2004,A,Sales and Services,Sal/Serv,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,BL,84573457438,011, , , , , , , , , , , , ,N,N,N,N,N,N,21603, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,21603,1/1/2001,A,Sales and Services,Sal/Serv,GD3,DEU01,KD915, ,KD0003, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,21603, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,21603,1/1/2004,A,Sales and Services,Sal/Serv,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,BL,84573457438,011, , , , , , , , , , , , ,N,N,N,N,N,N,21603, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,21604,1/1/2001,A,Sales and Services,Sal/Serv,GD4,DEU01,GD916, ,KD0004, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,21604, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,21604,1/1/2004,A,Sales and Services,Sal/Serv,GD4,DEU01,GD916, ,KD0004, ,0,N, , , ,CH,5874856745986,040, , , , , , , , , , , , ,N,N,N,N,N,N,21604, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,2912,1/1/1992,A,Department 2912,Department,GDB,DEU01,KD912, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,2912, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
@@ -476,8 +476,8 @@ GF001,GFPRO02,1/1/1999,A,Department Production QA03PG,Dpt Pro02,GF3, , , , , ,0,
 GF001,GFPRO03,1/1/1999,A,Department Production QA04AR,Dpt Pro03,GF4, , , , , ,0,N, , , , , , ,GF4AR, ,Department FRPRO03, , , , , , , , , ,N,N,N,N,N,N,GFPRO03, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10202,1/1/2001,A,Headquarters,HQ,GD2,DEU01,KD912, ,KD0002, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,10202, , , ,Amme,Isabella Maria, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10202,1/1/2004,A,Headquarters,HQ,GD2,DEU01,KD912, ,KD0002, ,0,N, , , ,FE,4530485643,401, , , , , , , , , , , , ,N,N,N,N,N,N,10202, , , ,Amme,Isabella Maria, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,10203,1/1/2001,A,Headquarters,HQ,GD3,DEU01,KD915, ,KD0003, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,10203, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,10203,1/1/2004,A,Headquarters,HQ,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,GB,78476463456,01A, , , , , , , , , , , , ,N,N,N,N,N,N,10203, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,10203,1/1/2001,A,Headquarters,HQ,GD3,DEU01,KD915, ,KD0003, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,10203, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,10203,1/1/2004,A,Headquarters,HQ,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,GB,78476463456,01A, , , , , , , , , , , , ,N,N,N,N,N,N,10203, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10204,1/1/2001,A,Headquarters,HQ,GD4,DEU01,GD916, ,KD0004, ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,10204, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10204,1/1/2004,A,Headquarters,HQ,GD4,DEU01,GD916, ,KD0004, ,0,N, , , ,GL,4574398574395,020, , , , , , , , , , , , ,N,N,N,N,N,N,10204, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,1912,1/1/1992,A,Department 1912,Department,GDA,DEU01,KD912, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,1912, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
@@ -498,7 +498,7 @@ AUS01,21500,1/1/1980,A,Sales,Sales,KAB,AUS01,KANSW1, , , ,3006,D, , , , , , , , 
 AUS01,25000,1/1/1980,A,Marketing,Marketing,KAB,AUS01,KANSW1, , , ,3006,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,25000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 AUS01,27000,1/1/1980,A,Customer Services,Cust Serv,KAB,AUS01,KAQLD1, , , ,3006,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,27000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 AUS01,50000,1/1/1980,A,Manufacturing,Manufactur,KAM,AUS01,KANSW1, , , ,3006,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,50000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,10003,1/1/2004,A,Human Ressources,HR,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,FE,34567890123,401, , , , , , , , , , , , ,N,N,N,N,N,N,10003, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,10003,1/1/2004,A,Human Ressources,HR,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,FE,34567890123,401, , , , , , , , , , , , ,N,N,N,N,N,N,10003, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 AUS01,54000,1/1/1980,A,Shipping,Assembly,KAM,AUS01,KAVIC1, , , ,3006,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,54000, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 ESP01,10000,1/1/1980,A,Headquarters - Spain,HQ,KE1,ESP01,KE01, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,10000, , , , , , ,B,N, , , ,0, , ,4/30/2014 9:52:15.000000 AM
 ESP01,10002,1/1/1980,A,Services,Serv,KE2,ESP01,KE02, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,10002, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
@@ -615,9 +615,9 @@ DEU01,10201,1/1/2009,A,Headquarters,HQ,GD1,DEU01,GD913, ,KD0001, ,0,N, , , ,1508
 DEU01,21601,1/1/2009,A,Sales and Services,Sal/Serv,GD1,DEU01,GD913, ,KD0001, ,0,N, , , ,15141364,4847587435,10, , , , , , , , , , , , ,N,N,N,N,N,N,21601, , , ,Breit-Gossmann,Heiner, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10202,1/1/2009,A,Headquarters,HQ,GD2,DEU01,KD912, ,KD0002, ,0,N, , , ,15250094,4530485643,0063, , , , , , , , , , , , ,N,N,N,N,N,N,10202, , , ,Amme,Isabella Maria, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,21602,1/1/2009,A,Sales and Services,Sal/Serv,GD2,DEU01,KD912, ,KD0002, ,0,N, , , ,29036720,87543857345,360, , , , , , , , , , , , ,N,N,N,N,N,N,21602, , , ,Amme,Isabella Maria, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,10003,1/1/2009,A,Human Ressources,HR,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,15197214,34567890123,0050, , , , , , , , , , , , ,N,N,N,N,N,N,10003, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,10203,1/1/2009,A,Headquarters,HQ,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,18484827,78476463456,0110, , , , , , , , , , , , ,N,N,N,N,N,N,10203, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,21603,1/1/2009,A,Sales and Services,Sal/Serv,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,18484877,84573457438,9110, , , , , , , , , , , , ,N,N,N,N,N,N,21603, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,10003,1/1/2009,A,Human Ressources,HR,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,15197214,34567890123,0050, , , , , , , , , , , , ,N,N,N,N,N,N,10003, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,10203,1/1/2009,A,Headquarters,HQ,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,18484827,78476463456,0110, , , , , , , , , , , , ,N,N,N,N,N,N,10203, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,21603,1/1/2009,A,Sales and Services,Sal/Serv,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,18484877,84573457438,9110, , , , , , , , , , , , ,N,N,N,N,N,N,21603, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10004,1/1/2009,A,Human Ressources,HR,GD4,DEU01,GD916, ,KD0004, ,0,N, , , ,29059513,43664646534,1501, , , , , , , , , , , , ,N,N,N,N,N,N,10004, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10204,1/1/2009,A,Headquarters,HQ,GD4,DEU01,GD916, ,KD0004, ,0,N, , , ,29059513,4574398574395,0901, , , , , , , , , , , , ,N,N,N,N,N,N,10204, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,21604,1/1/2009,A,Sales and Services,Sal/Serv,GD4,DEU01,GD916, ,KD0004, ,0,N, , , ,87741942,5874856745986,0604, , , , , , , , , , , , ,N,N,N,N,N,N,21604, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
@@ -825,7 +825,7 @@ GN001,GNPRO04,1/1/1999,A,The Netherlands Dept PRO04, ,GN4,GN001, , , , ,0,N, , ,
 GN001,GNRDUCF06,1/1/1999,A,The Netherlands Dept RDUCF, ,GNF,GN001, , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,GNRDUCF06, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 JCS01,J410,1/1/1990,A,Product Planning Section,PPlan Sect,J1,JCS01,J001, , , ,0,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,J410, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 CHE01,30702,1/1/1980,A,Department 30702,Dept 30702,GW7,CHE01,GW02, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,30702, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
-DEU01,10003,1/1/2001,A,Human Ressources,HR,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,GB, , , , , , , , , , , , , , ,N,N,N,N,N,N,10003, , , ,Grün,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
+DEU01,10003,1/1/2001,A,Human Ressources,HR,GD3,DEU01,KD915, ,KD0003, ,0,N, , , ,GB, , , , , , , , , , , , , , ,N,N,N,N,N,N,10003, , , ,GrÃ¼n,Alex, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 DEU01,10004,1/1/2001,A,Human Ressources,HR,GD4,DEU01,GD916, ,KD0004, ,0,N, , , ,GB, , , , , , , , , , , , , , ,N,N,N,N,N,N,10004, , , ,Bauer,Friedrich, , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 HKG01,GH010,1/1/1980,A,Purchasing,PU,GHM,HKG01,KHHO01, , , ,3104,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,GH010, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
 HKG01,GH011,1/1/1980,A,Marketing,MK,GHM,HKG01,KHHO01, , , ,3104,D, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,GH011, , , , , , ,B,N, , , ,0, , ,10/8/2013 12:24:34.000000 AM
@@ -856,7 +856,7 @@ GR001,62000,1/1/1980,A,Receiving,Receiving, , , , , , ,0,N, , , , , , , , , , , 
 GR001,63000,1/1/1980,A,Fire Department,Fire Depar, , , , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,63000, , , , , , ,B,N, , , ,0, , ,8/27/2014 10:49:00.000000 AM
 GR001,64000,1/1/1980,A,Non-Employees,Non-Employ, , , , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,64000, , , , , , ,B,N, , , ,0, , ,8/27/2014 10:49:48.000000 AM
 GR001,ALL_DEPTS,1/1/1980,A,Brazilian Operations,Brazilian, , , , , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,ALL_DEPTS, , , , , , ,B,N, , , ,0, , ,8/27/2014 10:50:28.000000 AM
-GY001,100000,1/1/1990,A,Dirección General,Dirección, ,GY001,GY_EDOMEX, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,100000, , , , , , ,B,N, , , ,0, , ,11/13/2017 4:09:39.000000 PM
+GY001,100000,1/1/1990,A,DirecciÃ³n General,DirecciÃ³n, ,GY001,GY_EDOMEX, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,100000, , , , , , ,B,N, , , ,0, , ,11/13/2017 4:09:39.000000 PM
 GY001,300000,1/1/1990,A,Production,Production,GYS,GY001,GY_TLAX, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,300000, , , , , , ,B,N, , , ,0, , ,12/4/2014 1:37:30.000000 PM
 GY001,500000,1/1/1990,A,Quality,Quality,GYS,GY001,GY_TLAX, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,500000, , , , , , ,B,N, , , ,0, , ,12/4/2014 1:38:43.000000 PM
 GY001,600000,1/1/1990,A,Finance,Finance,GYS,GY001,GY_EDOMEX, , , ,0,N, , , , , , , , , , , , , , , , , , ,N,N,N,N,N,N,600000, , , , , , ,B,N, , , ,0, , ,12/4/2014 1:39:16.000000 PM
